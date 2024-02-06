@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="left">Total count of all the commits made in both public and private repositories that power BerryLab.</h3>
-![Total Commits](https://commitcount.berrylab.cloud/badge/Total%20Commits-1182-326EDC?style=for-the-badge&labelColor=0F1E3C&color=326EDC&labelColor=F5F0EB)
+![Total Commits](https://commitcount.berrylab.cloud/c)
