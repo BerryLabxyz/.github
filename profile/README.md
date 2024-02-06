@@ -19,5 +19,5 @@
 <a href="https://discord.gg/DSQvrkNKnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DSQvrkNKnx" height="30" width="40" /></a>
 </p>
 
-<p align="left" style="font-size: 10px;">Commit count updates every 12h, including all public and private repository changes that power BerryLab.</p>
+<p align="left" style="font-size: 10px;">Commit count updates every 12h, including all public and private repositories that power BerryLab.</p>
 
