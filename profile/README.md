@@ -1,3 +1,7 @@
+![Total Commits](https://commitcount.berrylab.cloud/c)
+![Latest Version](https://commitcount.berrylab.cloud/l)
+
+
 <h1 align="center">Hi 👋, We're Berry Lab</h1>
 <h3 align="center">Pick your Power</h3>
 
@@ -15,5 +19,5 @@
 <a href="https://discord.gg/DSQvrkNKnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DSQvrkNKnx" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Total count of all the commits made in both public and private repositories that power BerryLab.</h3>
-![Total Commits](https://commitcount.berrylab.cloud/c)
+<p align="left" style="font-size: 10px;">Commit count updates every 12h, including all public and private repository changes that power BerryLab.</p>
+
