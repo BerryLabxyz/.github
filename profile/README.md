@@ -1,5 +1,5 @@
-![Total Commits](https://commitcount.berrylab.cloud/c)
-![Latest Version](https://commitcount.berrylab.cloud/l)
+![Total Commits](https://badge.berrylab.cloud/commit)
+![Latest Version](https://badge.berrylab.cloud/version)
 
 
 <h1 align="center">Hi 👋, We're Berry Lab</h1>
