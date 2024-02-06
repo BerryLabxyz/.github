@@ -1,7 +1,6 @@
 ![Total Commits](https://badge.berrylab.cloud/commit)
 ![Latest Version](https://badge.berrylab.cloud/version)
-
-
+[![API Status](https://uptime.betterstack.com/status-badges/v2/monitor/10n7w.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 <h1 align="center">Hi 👋, We're Berry Lab</h1>
 <h3 align="center">Pick your Power</h3>
 
