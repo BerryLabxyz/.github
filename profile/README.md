@@ -6,7 +6,7 @@
 
 - 🔭 We're currently working on **BerryLab, a new Mobile app for what you need the most!**
 
-- 🤝 Join our waitlist [https://form.berrylab.xyz/waitlist](https://form.berrylab.xyz/waitlist)
+- 🤝 Download our APP [https://berrylab.xyz/](https://berrylab.xyz/)
 
 - 📝 Our Documents [https://docs.berrylab.xyz/](https://docs.berrylab.xyz/)
 
