@@ -2,9 +2,9 @@
 ![Latest Version](https://badge.berrylab.cloud/version)
 [![API Status](https://uptime.betterstack.com/status-badges/v2/monitor/10n7w.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 <h1 align="center">Hi 👋, We're Berry Lab</h1>
-<h3 align="center">Pick your Power</h3>
+<h3 align="center">Your Web3 Assistant</h3>
 
-- 🔭 We're currently working on **BerryLab, a new Mobile app for what you need the most!**
+- 🔭 We're currently working on **BerryLab, Your Web3 Assistant!**
 
 - 🤝 Download our APP [https://berrylab.xyz/](https://berrylab.xyz/)
 
